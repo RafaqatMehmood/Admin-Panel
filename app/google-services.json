@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185060502852",
+    "firebase_url": "https://admin-panel-coding-cafa.firebaseio.com",
+    "project_id": "admin-panel-coding-cafa",
+    "storage_bucket": "admin-panel-coding-cafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185060502852:android:2393d0f77c7c22b52c7b11",
+        "android_client_info": {
+          "package_name": "com.rafaqatmehmood.adminpannel1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185060502852-t80oo5pjcc4nq1l5o50pim4e4efoge9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHy8L-V4pDtKnK8Z0m9V2mtx5aOGkjIf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185060502852-t80oo5pjcc4nq1l5o50pim4e4efoge9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
